@@ -41,7 +41,7 @@ public class Democlass  {
 			Thread.sleep(1000);
 			System.out.println("Test1");
 			System.out.println("Test2");
-			System.out.println("Welcome1");
+			System.out.println("Welcome12");
  
 		
 	}
