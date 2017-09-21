@@ -22,7 +22,7 @@ public class Democlass  {
 		//Select option based on value
 		//S1.selectByValue("EUR"); or
 		//Select option based on visible Text(option name)
-		 S1.selectByVisibleText("United Kingdom");
+		 S1.selectByVisibleText("Udfgdfgdfgnisdfsdfted Kingdom");
 		/*//Select link by link text
 		//driver.findElement(By.linkText("Control Panel")).click();   or
 		//Select link by Partial link text
